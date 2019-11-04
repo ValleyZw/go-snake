@@ -1,5 +1,7 @@
 # go-snake
 
+[![Build Status](https://travis-ci.org/ValleyZw/go-snake.svg?branch=master)](https://travis-ci.org/ValleyZw/go-snake)
+
 Tiny snake game on terminal
 
 <p align='center'>
