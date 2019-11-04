@@ -3,7 +3,7 @@
 Tiny snake game on terminal
 
 <p align='center'>
-<img width="400" alt="screenshot" src="https://user-images.githubusercontent.com/43366254/68096442-a0f6cb00-fea8-11e9-8c62-5c081a6f83a0.gif"/>
+    <img width="500" alt="screenshot" src="https://user-images.githubusercontent.com/43366254/68097920-9ee53a00-feb1-11e9-9ea9-1334f432dbac.gif"/>
 </p>
 
 ## Docker image
